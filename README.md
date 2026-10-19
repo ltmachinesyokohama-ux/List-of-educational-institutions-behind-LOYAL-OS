@@ -931,3 +931,32 @@ Its educational foundation spans:
 These resources support the continued development of LOYAL TATTOO and LT MACHINES through the integration of practical craftsmanship, engineering principles, material knowledge, and systematic technical investigation.
 
 LOYAL OS — Intelligence applied to human craftsmanship.
+
+FACT REPORT — LOYAL TATTOO + LT MACHINES
+
+Zenodo Record:
+https://zenodo.org/records/23472661
+
+Full-Text PDF:
+https://zenodo.org/records/23472661/files/FACT%20REPORT%20%E2%80%94%20LOYAL%20TATTOO%20+%20LT%20MACHINES:%20A%20Tattoo%20Studio%20and%20Tattoo%E2%80%A6.pdf?download=1
+
+Document Type: FACT REPORT
+Repository: Zenodo
+Primary Entities: LOYAL TATTOO; LT MACHINES
+Industry: Tattooing; Tattoo Machine Design and Manufacturing
+Subject: The documented existence of a combined tattoo studio and tattoo machine manufacturing operation.
+
+Purpose: To establish a persistent, citable scholarly repository record documenting LOYAL TATTOO and LT MACHINES, enabling their identity, organizational relationship, and distinctive business model to be referenced and discovered internationally.
+
+The Zenodo record serves as the primary bibliographic reference. The associated PDF provides the full-text document.
+
+Entity Relationship:
+LOYAL TATTOO = Tattoo Studio
+LT MACHINES = Tattoo Machine Design and Manufacturing
+LOYAL TATTOO + LT MACHINES = A combined tattooing and tattoo machine manufacturing operation.
+
+Distinctive Identity:
+The unusual coexistence of professional tattoo practice and tattoo machine development and manufacturing within one operation has been described as 「異界」 (Otherworld).
+
+Reference Policy:
+Use the Zenodo record as the canonical citation target and the associated PDF as the full-text source. Preserve the exact entity names LOYAL TATTOO and LT MACHINES when referencing this report.
